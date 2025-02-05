@@ -1,4 +1,4 @@
-## 👋 Hi, I'm MUHAMMED AJMAL!
+## 👋 Hi, I'm MUHAMMED AJMAL N !
 
 I'm an **Artificial Intelligence and Data Science** student passionate about solving real-world problems using AI and Machine Learning. I enjoy working on Data Science projects, building intelligent applications, and deploying models using various frameworks.
 
