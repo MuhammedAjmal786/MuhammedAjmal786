@@ -13,7 +13,7 @@ Eg: **Diabetes Prediction and Analysis** (EDA, Streamlit, Gradio, Flask)
 - More AI and Data Science projects coming soon!
 
 ### 📫 Connect with me:
-- GitHub: ([https://github.com/your-username](https://github.com/MuhammedAjmal786))
+- GitHub: [https://github.com/your-username](https://github.com/MuhammedAjmal786)
 - LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/ajmal-muhammed-38951132b)
 
 🚀 Always eager to learn, contribute, and collaborate on exciting AI & Data Science projects!
