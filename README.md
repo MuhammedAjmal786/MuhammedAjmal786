@@ -18,6 +18,8 @@ Eg:
 ### 📫 Connect with me:
 - GitHub: https://github.com/MuhammedAjmal786
 - LinkedIn: www.linkedin.com/in/ajmal-muhammed-38951132b
+## Check my streamlit Apps:
+https://share.streamlit.io/user/muhammedajmal786
 
 🚀 Always eager to learn, contribute, and collaborate on exciting AI & Data Science projects!
 
