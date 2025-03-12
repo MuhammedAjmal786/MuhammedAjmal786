@@ -9,8 +9,10 @@ I'm an **Artificial Intelligence and Data Science** student passionate about sol
 - AI Model Deployment (Streamlit, Gradio, Flask)
 
 ### 📌 Projects:
-Eg: **Students Details Managment System** (Flask)
-**Diabetes Prediction and Analysis** (EDA, Streamlit, Gradio, Flask)
+Eg: 
+- **Students Details Managment System** (Flask)
+- **Diabetes Prediction and Analysis** (EDA, Streamlit, Gradio, Flask)
+  
 - More AI and Data Science projects coming soon!
 
 ### 📫 Connect with me:
